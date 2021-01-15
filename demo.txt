@@ -1,1 +1,2 @@
-Roman Lupasco, editez fisierul
+schimb local fisierul, Roma
+
